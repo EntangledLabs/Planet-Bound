@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PlanetBound
 {
-    class Class1
+    class Player
     {
     }
 }
