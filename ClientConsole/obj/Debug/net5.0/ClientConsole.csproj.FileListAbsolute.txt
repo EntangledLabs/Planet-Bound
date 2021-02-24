@@ -1,0 +1,16 @@
+C:\Users\yicle\source\repos\planetbound\ClientConsole\bin\Debug\net5.0\ClientConsole.exe
+C:\Users\yicle\source\repos\planetbound\ClientConsole\bin\Debug\net5.0\ClientConsole.deps.json
+C:\Users\yicle\source\repos\planetbound\ClientConsole\bin\Debug\net5.0\ClientConsole.runtimeconfig.json
+C:\Users\yicle\source\repos\planetbound\ClientConsole\bin\Debug\net5.0\ClientConsole.runtimeconfig.dev.json
+C:\Users\yicle\source\repos\planetbound\ClientConsole\bin\Debug\net5.0\ClientConsole.dll
+C:\Users\yicle\source\repos\planetbound\ClientConsole\bin\Debug\net5.0\ref\ClientConsole.dll
+C:\Users\yicle\source\repos\planetbound\ClientConsole\bin\Debug\net5.0\ClientConsole.pdb
+C:\Users\yicle\source\repos\planetbound\ClientConsole\obj\Debug\net5.0\ClientConsole.csprojAssemblyReference.cache
+C:\Users\yicle\source\repos\planetbound\ClientConsole\obj\Debug\net5.0\ClientConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yicle\source\repos\planetbound\ClientConsole\obj\Debug\net5.0\ClientConsole.AssemblyInfoInputs.cache
+C:\Users\yicle\source\repos\planetbound\ClientConsole\obj\Debug\net5.0\ClientConsole.AssemblyInfo.cs
+C:\Users\yicle\source\repos\planetbound\ClientConsole\obj\Debug\net5.0\ClientConsole.csproj.CoreCompileInputs.cache
+C:\Users\yicle\source\repos\planetbound\ClientConsole\obj\Debug\net5.0\ClientConsole.dll
+C:\Users\yicle\source\repos\planetbound\ClientConsole\obj\Debug\net5.0\ref\ClientConsole.dll
+C:\Users\yicle\source\repos\planetbound\ClientConsole\obj\Debug\net5.0\ClientConsole.pdb
+C:\Users\yicle\source\repos\planetbound\ClientConsole\obj\Debug\net5.0\ClientConsole.genruntimeconfig.cache

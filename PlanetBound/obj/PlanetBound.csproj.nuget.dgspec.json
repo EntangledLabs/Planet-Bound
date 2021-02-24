@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yicle\\source\\repos\\planetbound\\ClientConsole\\ClientConsole.csproj": {}
+    "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\PlanetBound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yicle\\source\\repos\\planetbound\\ClientConsole\\ClientConsole.csproj": {
+    "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\PlanetBound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yicle\\source\\repos\\planetbound\\ClientConsole\\ClientConsole.csproj",
-        "projectName": "ClientConsole",
-        "projectPath": "C:\\Users\\yicle\\source\\repos\\planetbound\\ClientConsole\\ClientConsole.csproj",
+        "projectUniqueName": "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\PlanetBound.csproj",
+        "projectName": "PlanetBound",
+        "projectPath": "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\PlanetBound.csproj",
         "packagesPath": "C:\\Users\\yicle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yicle\\source\\repos\\planetbound\\ClientConsole\\obj\\",
+        "outputPath": "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -43,6 +43,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.113.7, )"
+            },
+            "sqlite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

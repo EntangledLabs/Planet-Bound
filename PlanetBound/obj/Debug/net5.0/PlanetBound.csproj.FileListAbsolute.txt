@@ -1,0 +1,5 @@
+C:\Users\yicle\source\repos\planetbound\PlanetBound\obj\Debug\net5.0\PlanetBound.csprojAssemblyReference.cache
+C:\Users\yicle\source\repos\planetbound\PlanetBound\obj\Debug\net5.0\PlanetBound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yicle\source\repos\planetbound\PlanetBound\obj\Debug\net5.0\PlanetBound.AssemblyInfoInputs.cache
+C:\Users\yicle\source\repos\planetbound\PlanetBound\obj\Debug\net5.0\PlanetBound.AssemblyInfo.cs
+C:\Users\yicle\source\repos\planetbound\PlanetBound\obj\Debug\net5.0\PlanetBound.csproj.CoreCompileInputs.cache
