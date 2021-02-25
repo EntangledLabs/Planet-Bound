@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yibob\\.nuget\\packages\\": {},
+    "C:\\Users\\yicle\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\ClientConsole\\ClientConsole.csproj",
+      "projectUniqueName": "C:\\Users\\yicle\\source\\repos\\planetbound\\ClientConsole\\ClientConsole.csproj",
       "projectName": "ClientConsole",
-      "projectPath": "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\ClientConsole\\ClientConsole.csproj",
-      "packagesPath": "C:\\Users\\yibob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\ClientConsole\\obj\\",
+      "projectPath": "C:\\Users\\yicle\\source\\repos\\planetbound\\ClientConsole\\ClientConsole.csproj",
+      "packagesPath": "C:\\Users\\yicle\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yicle\\source\\repos\\planetbound\\ClientConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\yibob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yicle\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

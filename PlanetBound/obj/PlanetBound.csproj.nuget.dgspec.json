@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\PlanetBound\\PlanetBound.csproj": {}
+    "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\PlanetBound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\PlanetBound\\PlanetBound.csproj": {
+    "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\PlanetBound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\PlanetBound\\PlanetBound.csproj",
+        "projectUniqueName": "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\PlanetBound.csproj",
         "projectName": "PlanetBound",
-        "projectPath": "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\PlanetBound\\PlanetBound.csproj",
-        "packagesPath": "C:\\Users\\yibob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\PlanetBound\\obj\\",
+        "projectPath": "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\PlanetBound.csproj",
+        "packagesPath": "C:\\Users\\yicle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\yibob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yicle\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

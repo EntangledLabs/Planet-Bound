@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\ServerConsole\\ServerConsole.csproj": {}
+    "C:\\Users\\yicle\\source\\repos\\planetbound\\ServerConsole\\ServerConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\ServerConsole\\ServerConsole.csproj": {
+    "C:\\Users\\yicle\\source\\repos\\planetbound\\ServerConsole\\ServerConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\ServerConsole\\ServerConsole.csproj",
+        "projectUniqueName": "C:\\Users\\yicle\\source\\repos\\planetbound\\ServerConsole\\ServerConsole.csproj",
         "projectName": "ServerConsole",
-        "projectPath": "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\ServerConsole\\ServerConsole.csproj",
-        "packagesPath": "C:\\Users\\yibob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\ServerConsole\\obj\\",
+        "projectPath": "C:\\Users\\yicle\\source\\repos\\planetbound\\ServerConsole\\ServerConsole.csproj",
+        "packagesPath": "C:\\Users\\yicle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yicle\\source\\repos\\planetbound\\ServerConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\yibob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yicle\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
