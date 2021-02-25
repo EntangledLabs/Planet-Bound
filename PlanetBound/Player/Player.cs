@@ -6,10 +6,10 @@ namespace PlanetBound.Player
     public class Player
     {
 
-        private Guid pId;
-        private string username;
-        private Location location;
-        private Stats pStats;
+        public Guid pId { get; private set; }
+        public string username { get; private set; }
+        public Location location { get; private set; }
+        public Stats pStats { get; private set; }
 
         public Player(Guid uuid, string username, Location initLocation, Stats initStats)
         {
@@ -19,10 +19,10 @@ namespace PlanetBound.Player
             pStats = initStats;
         }
 
-        public void Update(Location newLocation, Stats newStats)
+        public int Update(Location newLocation, Stats newStats)
         {
-            location.Update(newLocation);
-            pStats.Update(newStats);
+            return pStats.Update(newStats) + location.Update(newLocation);
         }
+
     }
 }

@@ -8,7 +8,11 @@ namespace PlanetBound.Player
 {
     public class Stats
     {
+        private enum Roles
+        {
 
+        }
+        public string role { get; private set; }
         public Stats()
         {
 
@@ -20,4 +24,6 @@ namespace PlanetBound.Player
         }
 
     }
+
+    
 }
