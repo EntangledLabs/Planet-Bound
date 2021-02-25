@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PlanetBound.Map.Room
+namespace PlanetBound.Map
 {
-    class Room
+    public class Room : Location
     {
     }
 }

@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PlanetBound.Player
+namespace PlanetBound.Map
 {
-    public class Stats
+    public class Location
     {
 
-        public Stats()
+        public Location()
         {
 
         }
 
-        public int Update(Stats newStats)
+        public int Update(Location newLocation)
         {
             return -1;
         }

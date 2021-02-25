@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\PlanetBound.csproj": {}
+    "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\PlanetBound\\PlanetBound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\PlanetBound.csproj": {
+    "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\PlanetBound\\PlanetBound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\PlanetBound.csproj",
+        "projectUniqueName": "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\PlanetBound\\PlanetBound.csproj",
         "projectName": "PlanetBound",
-        "projectPath": "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\PlanetBound.csproj",
-        "packagesPath": "C:\\Users\\yicle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\obj\\",
+        "projectPath": "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\PlanetBound\\PlanetBound.csproj",
+        "packagesPath": "C:\\Users\\yibob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\PlanetBound\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\yicle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yibob\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -43,16 +43,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "System.Data.SQLite.Core": {
-              "target": "Package",
-              "version": "[1.0.113.7, )"
-            },
-            "sqlite": {
-              "target": "Package",
-              "version": "[3.13.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ccwMdqb5mQlE6VZqrAapMFUuQc7eqx5/MaPUtgd+1PY4rfYBMsb1NFDQjhYrWlfm7aPD33r6XrLWqUKeeJErGg==",
+  "dgSpecHash": "ovAJyiITtFW5VrLpeF5dumCebqAYKkGjueaMM8KO7vOyYWBzrP1F9yL5wRBnqfMBXdVM+ODCFkVw7XKtL2igwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yicle\\source\\repos\\planetbound\\PlanetBound\\PlanetBound.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\yicle\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
-    "C:\\Users\\yicle\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.113.2\\stub.system.data.sqlite.core.netstandard.1.0.113.2.nupkg.sha512",
-    "C:\\Users\\yicle\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.7\\system.data.sqlite.core.1.0.113.7.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\yibob\\source\\repos\\EntangledLabs\\Planet-Bound\\PlanetBound\\PlanetBound.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
