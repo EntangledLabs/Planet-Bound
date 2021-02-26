@@ -14,9 +14,9 @@ namespace PlanetBound.Map
 
         }
 
-        public int Update(Location newLocation)
+        public void Update(Location newLocation)
         {
-            return -1;
+            
         }
 
     }

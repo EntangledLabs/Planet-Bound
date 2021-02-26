@@ -8,20 +8,36 @@ namespace PlanetBound.Player
 {
     public class Stats
     {
+        // Fields
+
         private enum Roles
         {
             CAPTAIN, MUTINEER, CREWMATE
         }
-        public string role { get; set; }
-        public int allegiance { get; set; }
+        private string role;
+        private int allegiance;
+
+
+        // Field properties
+
+        public string Role
+        {
+            get { return role; }
+            set { role = value; }
+        }
+        public int Allegiance { get; private set; }
+
+        // Default constructor
         public Stats()
         {
 
         }
 
-        public int Update(Stats newStats)
+        // Class methods
+
+        public void Update(Stats newStats)
         {
-            return -1;
+            Role = newStats.Role;
         }
 
     }

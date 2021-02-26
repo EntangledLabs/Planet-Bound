@@ -19,9 +19,10 @@ namespace PlanetBound.Player
             pStats = initStats;
         }
 
-        public int Update(Location newLocation, Stats newStats)
+        public void Update(Location newLocation, Stats newStats)
         {
-            return pStats.Update(newStats) + location.Update(newLocation);
+            pStats.Update(newStats);
+            location.Update(newLocation);
         }
 
     }
