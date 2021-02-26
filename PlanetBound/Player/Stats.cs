@@ -10,9 +10,10 @@ namespace PlanetBound.Player
     {
         private enum Roles
         {
-
+            CAPTAIN, MUTINEER, CREWMATE
         }
-        public string role { get; private set; }
+        public string role { get; set; }
+        public int allegiance { get; set; }
         public Stats()
         {
 
