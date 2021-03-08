@@ -24,6 +24,5 @@ namespace PlanetBound.Player
             pStats.Update(newStats);
             location.Update(newLocation);
         }
-
     }
 }

@@ -4,4 +4,13 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Map\Mars\" />
+    <Folder Include="Map\Ceres\" />
+    <Folder Include="Map\Luna\" />
+    <Folder Include="Map\Explorer\" />
+    <Folder Include="Map\Common\" />
+    <Folder Include="Map\Titan\" />
+  </ItemGroup>
+
 </Project>

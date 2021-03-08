@@ -16,6 +16,7 @@ namespace PlanetBound.Player
         }
         private string role;
         private int allegiance;
+        private bool dead;
 
 
         // Field properties
@@ -23,14 +24,25 @@ namespace PlanetBound.Player
         public string Role
         {
             get { return role; }
-            set { role = value; }
+            private set { role = value; }
         }
-        public int Allegiance { get; private set; }
+        
+        public int Allegiance {
+            get { return allegiance; }
+            private set { allegiance = value; }
+        }
+
+        public bool Dead
+        {
+            get { return dead; }
+            private set { dead = value; }
+        }
 
         // Default constructor
-        public Stats()
+        public Stats(string role, int allegiance)
         {
-
+            this.role = role;
+            this.allegiance = allegiance;
         }
 
         // Class methods
@@ -39,7 +51,6 @@ namespace PlanetBound.Player
         {
             Role = newStats.Role;
         }
-
     }
 
     
