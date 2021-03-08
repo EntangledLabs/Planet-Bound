@@ -6,17 +6,7 @@ using System.Threading.Tasks;
 
 namespace PlanetBound.Map
 {
-    public class Location
+    interface MapGenerator
     {
-
-        public Location()
-        {
-
-        }
-
-        public void Update(Location newLocation)
-        {
-            
-        }
     }
 }

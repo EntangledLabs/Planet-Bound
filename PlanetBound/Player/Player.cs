@@ -5,24 +5,62 @@ namespace PlanetBound.Player
 {
     public class Player
     {
+        private Guid pid;
+        private string username;
+        private Location location;
+        private Stats pstats;
+        private Avatar avatar;
 
-        public Guid pId { get; private set; }
-        public string username { get; private set; }
-        public Location location { get; private set; }
-        public Stats pStats { get; private set; }
+
+        public Guid Pid
+        {
+            get { return pid; }
+            private set { pid = value; }
+        }
+        public string Username
+        {
+            get { return username; }
+            private set { username = value; }
+        }
+        public Location Location
+        {
+            get { return location; }
+            private set { location = value; }
+        }
+        public Stats PStats
+        {
+            get { return pstats; }
+            private set { pstats = value; }
+        }
+        public Avatar Avatar
+        {
+            get { return avatar; }
+            private set { avatar = value; }
+        }
 
         public Player(Guid uuid, string username, Location initLocation, Stats initStats)
         {
-            pId = uuid;
-            this.username = username;
-            location = initLocation;
-            pStats = initStats;
+            Pid = uuid;
+            Username = username;
+            Location = initLocation;
+            PStats = initStats;
         }
 
-        public void Update(Location newLocation, Stats newStats)
+        public Player(Guid uuid, string username, Location initLocation, Stats initStats, Avatar a)
         {
-            pStats.Update(newStats);
-            location.Update(newLocation);
+            Pid = uuid;
+            Username = username;
+            Location = initLocation;
+            PStats = initStats;
+            Avatar = a;
+        }
+
+        // Update method
+        public void Update(Location newLocation, Stats newStats, Avatar newAvatar)
+        {
+            PStats.Update(newStats);
+            Location.Update(newLocation);
+            Avatar.Update(newAvatar);
         }
     }
 }

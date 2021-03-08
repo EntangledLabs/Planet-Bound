@@ -6,17 +6,14 @@ using System.Threading.Tasks;
 
 namespace PlanetBound.Map
 {
-    public class Location
+    public class TileMap
     {
+        private TileMap[,] map;
 
-        public Location()
+        public TileMap[,] Map
         {
-
-        }
-
-        public void Update(Location newLocation)
-        {
-            
+            get { return map; }
+            private set { map = value; }
         }
     }
 }
