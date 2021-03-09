@@ -361,7 +361,14 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
+# Clemence's added
 
 */obj/
 */bin/
 .replit
+
+# Godot recommended
+.import/
+*.translation
+export_presets.cfg
+.mono/

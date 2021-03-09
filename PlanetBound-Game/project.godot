@@ -8,14 +8,9 @@
 
 config_version=4
 
-_global_script_classes=[ {
-"base": "",
-"class": "GitAPI",
-"language": "NativeScript",
-"path": "res://git_api.gdns"
-} ]
+_global_script_classes=[  ]
 _global_script_class_icons={
-"GitAPI": ""
+
 }
 
 [application]
@@ -24,9 +19,14 @@ config/name="PlanetBound"
 run/main_scene="res://main_menu.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+Gamestate="*res://gamestate.gd"
+Network="*res://network.gd"
+
 [gdnative]
 
-singletons=[ "res://git_api.gdnlib" ]
+singletons=[  ]
 
 [rendering]
 
