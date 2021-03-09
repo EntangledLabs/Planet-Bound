@@ -24,6 +24,11 @@ config/icon="res://icon.png"
 Gamestate="*res://gamestate.gd"
 Network="*res://network.gd"
 
+[display]
+
+window/size/width=1920
+window/size/height=1080
+
 [gdnative]
 
 singletons=[  ]
